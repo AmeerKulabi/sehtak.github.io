@@ -113,7 +113,7 @@ We implement appropriate technical and organizational measures to protect Your P
 
 ## Children's Privacy
 
-Our Service is not directed to individuals under the age of 16. We do not knowingly collect Personal Data from children under 16.
+Our Service is not directed to individuals under the age of 18. We do not knowingly collect Personal Data from children under 18.
 
 ## Changes to this Privacy Policy
 
